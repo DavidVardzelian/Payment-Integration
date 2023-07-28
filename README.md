@@ -19,7 +19,7 @@ Before running this project, make sure you have the following:
  2. Navigate to the project folder:
 	 
 
-	    cd payment-project
+	    cd Payment-Integration
 2. Install the required dependencies:
 
 		dotnet restore
