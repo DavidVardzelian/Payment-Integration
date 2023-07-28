@@ -65,6 +65,6 @@ This project is licensed under the MIT License. See the [LICENSE](https://chat.o
 
 We would like to express our gratitude to the Stripe team for providing an excellent payment processing solution.
 
-If you have any questions or encounter any issues, please feel free to contact us at [support@paymentproject.com](mailto:support@paymentproject.com).
+If you have any questions or encounter any issues, please feel free to contact us at [david.vardzelian@gmail.com](mailto:david.vardzelian@gmail.com).
 
 Happy Payment Processing!
